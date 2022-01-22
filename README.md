@@ -1,2 +1,4 @@
 # Film-y-netmen
-c# console ekranında ekleme ve çıkarma yapabileceğimiz listeyi sırasıyla görebileceğimiz film yönetmen bazlı json dosya formatı biçimdeki kodlar.
+double linkedlist formatında yapılmış console ekranında çalışan program. 
+c# console ekranında film ekleme, film silme, eklenen ya da önceden eklenmiş olan filmin kaçıncı sırada olduğu veya eklenmiş olan bütün filmleri listeleyen
+eklenen filmleri ise hafızaya alıp tutan program.
